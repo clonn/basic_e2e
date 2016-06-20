@@ -1,0 +1,11 @@
+{
+  "name": "basic_e2e",
+  "version": "1.0.0",
+  "description": "",
+  "main": "basic_test.js",
+  "scripts": {
+    "test": "codeceptjs run --steps"
+  },
+  "author": "",
+  "license": "ISC"
+}
